@@ -7,7 +7,7 @@ include("../app/helpers/header_templates.php")
                 <!--s12 y m7 son clases responsivas con materialize,col significa que se va a trabjar con el sistema de 
             columnas,las clases responsivas deben estar dentro de una etiqueta con la clase row para que funcione-->
                 <!--s12: tarjeta ocupara todo el ancho de pantalla cuando sea pequeña-->
-                <!--m7:tarjeta ocupara el medio de la pantalla-->
+                <!--m7:tarjeta ocupara el medio de la pantalla   -->
                 <div class="col s12 m6 l4 ">
                     <div class="card">
                         <div class="card-image">
